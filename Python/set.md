@@ -3,7 +3,7 @@ data structure: set
 
 # 定义
 
-1、数学上的set^[1]^: In mathematics, a set is a group of objects with stated characteristics。 翻译过来就是一组具有明确特征的对象。Python语言里面的set也是对应数学上的集合，数学中的集合具有三个性质：确定性，互异性，无序性。
+1、数学上的set^[1]^: In mathematics, a set is a group of objects with stated characteristics。 翻译过来就是一组具有明确特征的对象。Python语言里面的 set 对应数学上的集合，数学中的集合具有三个性质：确定性，互异性，无序性。
 
 2、Python里set^[2]^: A set is an unordered collection with no duplicate elements。没有重复元素的无序集合。从Python的定义中我们也可以看到集合数据类型set是完全符合数学中集合的三个性质的。
 

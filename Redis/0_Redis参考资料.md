@@ -1,9 +1,11 @@
 Redis参考资料
 ---
 
-# 官方网站
+# 官方
 
-1、redis: https://redis.io/
+1、网站： https://redis.io/
+
+2、源码：https://github.com/redis/redis
 
 # 书籍
 

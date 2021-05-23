@@ -3,7 +3,7 @@
 
 # 原书评价
 
-书中使用了非常非常非常多的集合（collection）——请原谅我这里用了三个非常这种不标准句子语法，只有这样才能表达出我愤怒的心情。作者使用的集合有：analytics， blog，blog.posts，books，coll，foo，games，mail.list，movies，papers，people，test，users，。使用多个集合本质上是没有问题的，作者的不合理之处在于：
+书中使用了非常非常非常多的集合（collection）——请原谅我这里用了三个非常这种不标准句子语法，只有这样才能表达出我愤怒的心情。作者使用的集合有：analytics， blog，blog.posts，books，coll，foo，games，lists ，mail.list，movies，papers，people，test，users，。使用多个集合本质上是没有问题的，作者的不合理之处在于：
 有些文档（如：mail.list）只使用了一次，如 `db.mailing.list.remove({"opt-out" : true})` ，显得非常的没头没尾，散乱。
 有些文档在使用之前也不知道内容具体是什么，如 `db.papers.update({"authors cited" : {"$ne" : "Richie"}},{$push : {"authors cited" : "Richie"}})`，集合在 update 之前都没有创建，如果按照书上的操作，可能就得不到和书上一样的结果，这无形中增加了读者学习的难度。所以读者还得先自己创建 papers 集合，而之前的集合也可以用，为什么非得创建一个只使用一次的集合，而不是直接使用之前的集合呢？显得多此一举。
 

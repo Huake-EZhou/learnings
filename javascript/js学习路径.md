@@ -2,7 +2,11 @@
 
 ## 初级
 
-1、阮一峰，《ES6标准入门》
+1、阮一峰，《JavaScript 教程》
+
+电子版：https://wangdoc.com/javascript/
+
+2、阮一峰，《ES6标准入门》
 
 豆瓣：https://book.douban.com/subject/27127030/
 

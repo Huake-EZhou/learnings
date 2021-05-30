@@ -4,7 +4,11 @@
 
 ## 初级
 
-# Intro-to-Vue-3(视频)
+### 1、Intro-to-Vue-3教程
+
+优点：一个完整的小项目。
+
+缺点：内容较少。
 
 （1）视频地址
 
@@ -13,6 +17,14 @@ https://www.vuemastery.com/courses/intro-to-vue-3/
 （2）仓库地址
 
 https://github.com/Code-Pop/Intro-to-Vue-3
+
+### 2、Vue.js教程
+
+优点：
+
+缺点：
+
+https://learning.dcloud.io/#/
 
 ## 中级
 

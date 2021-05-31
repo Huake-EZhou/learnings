@@ -18,14 +18,6 @@ https://www.vuemastery.com/courses/intro-to-vue-3/
 
 https://github.com/Code-Pop/Intro-to-Vue-3
 
-### 2、Vue.js教程
-
-优点：
-
-缺点：
-
-https://learning.dcloud.io/#/
-
 ## 中级
 
 ## 高级

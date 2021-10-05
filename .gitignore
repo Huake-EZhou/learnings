@@ -1,4 +1,4 @@
 # Object file
 # 
-c/c-programming-a-modern-approach/*/*
-!c/c-programming-a-modern-approach/*/*.c
+c/c-programming-a-modern-approach/*/*/*
+!c/c-programming-a-modern-approach/*/*/*.c
